@@ -1,0 +1,16 @@
+.env
+*.log
+.DS_Store
+
+# Backend/Strapi runtime
+Backend/.env
+Backend/data/
+Backend/node_modules/
+Backend/.tmp/
+Backend/build/
+Backend/dist/
+Backend/public/uploads/
+
+# Cheshire Cat persistent data (mantieni configurazione plugin in repo)
+AI-Agent/kith/data/local_vector_memory/
+AI-Agent/kith/data/metadata.json

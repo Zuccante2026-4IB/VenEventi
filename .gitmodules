@@ -1,0 +1,15 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Zuccante2026-4IB/Backend.git
+[submodule "Eventi"]
+	path = Eventi
+	url = https://github.com/Zuccante2026-4IB/Eventi.git
+[submodule "Design"]
+	path = Design
+	url = https://github.com/Zuccante2026-4IB/Design.git
+[submodule "AI-Agent"]
+	path = AI-Agent
+	url = https://github.com/Zuccante2026-4IB/AI-Agent.git
+[submodule "static-HTML"]
+	path = static-HTML
+	url = https://github.com/Zuccante2026-4IB/static-HTML.git
