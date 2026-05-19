@@ -19,6 +19,11 @@ async function account(tipo) {
     } else if (tipo === "login") {
         await login(username, password);
     }
+
+    const loginButton = document.querySelector(".input-button");
+    if (loginButton) {
+        loginButton.innerHTML = "Accedi";
+    }
 }
 
 async function registrazione(username, password) {
